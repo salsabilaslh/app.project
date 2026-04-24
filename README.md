@@ -28,7 +28,3 @@ The system collects quotes from a website, stores them in a database, and provid
 ## Live Demo
 
 https://huggingface.co/spaces/salsabilaslh/app.project
-
----
-
-## Project Structure
